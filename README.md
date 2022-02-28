@@ -29,13 +29,10 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-### Github Stats :bar_chart:
-
-<h4>Visitor's count :eyes:</h4>
-
+### Visitor's count :eyes:
 <p><img src="https://profile-counter.glitch.me/{TechGF}/count.svg" alt="TechGF :: Visitor's Count" /></p>
 
+### Github Stats :bar_chart:
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=TechGF&show_icons=true&theme=synthwave" alt="TechGF :: Profile Stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechGF&langs_count=10&theme=tokyonight&layout=compact" alt="TechGF :: Top Langs" />
 
