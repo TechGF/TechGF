@@ -29,7 +29,7 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Visitor's count :eyes:
+### Visitor's Count :eyes:
 <p><img src="https://profile-counter.glitch.me/{TechGF}/count.svg" alt="TechGF :: Visitor's Count" /></p>
 
 ### Github Stats :bar_chart:
