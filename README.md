@@ -1,4 +1,4 @@
-# Hey there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">! I'm Gary Feng 👨‍💻
+# Hey there<img src="https://raw.githubusercontent.com/techgf/techgf/master/gifs/Hi.gif" width="30px">! I'm Gary Feng 👨‍💻
 <p><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 ### About Me 🤔
