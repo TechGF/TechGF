@@ -6,7 +6,7 @@
 -  **:books:Currently learning :** JavaScript | Angular | Python
 -  **:tongue:Favorite Language :** Java
 -  **:mortar_board:Education :** Currently Computer Science Student at College of Staten Island
--  **😍Interest :** Web Development | Mobile Development
+-  **😍Interests :** Web Development | Mobile Development
 -  **:runner:What I Like To Do :** Problem Solving | Learning New Skills
 -  **:fish_cake:Hobbies :** Foodie | Working Out | Binging Shows
 -  **🎮Games :** Sims 4 | Pokemon | Minecraft
