@@ -37,9 +37,8 @@
 
 <p><img src="https://profile-counter.glitch.me/{TechGF}/count.svg" alt="TechGF :: Visitor's Count" /></p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechGF&langs_count=10&theme=tokyonight&layout=compact" alt="TechGF :: Top Langs" />
-<img src="https://github-readme-stats.vercel.app/api?username=TechGF&show_icons=true&theme=synthwave" alt="TechGF :: Profile Stats" />
-<br>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=TechGF&show_icons=true&theme=synthwave" alt="TechGF :: Profile Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechGF&langs_count=10&theme=tokyonight&layout=compact" alt="TechGF :: Top Langs" />
 
 #### Connect With Me: <a href=https://www.linkedin.com/in/gary-feng/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="gary-feng" height="40" width="40" /></a>
 
