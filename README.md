@@ -1,5 +1,5 @@
-# Hey there! I'm Gary Feng 👨‍💻
-
+# Hey there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">! I'm Gary Feng 👨‍💻
+<p><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 ### About Me 🤔
 -  **:books:Currently learning :** JavaScript | Angular | Python
@@ -8,6 +8,7 @@
 -  **😍Interest :** Web Development | Mobile Development
 -  **:runner:What I Like To Do :** Problem Solving | Learning New Skills
 -  **:fish_cake:Hobbies :** Foodie | Working Out | Binging Shows
+-  **🎮Game :** Sims 4 | Minecraft
 -  **:rofl:Fun fact :** I have a birthmark that is shape like a heart :heart:!
 -  **:blush:Pronouns :** He/Him/His
 -  **📫How To Reach Me :** [garyfeng961@gmail.com](mailto:garyfeng961?subject=[GitHub]%20Source%20profile)
@@ -44,5 +45,7 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=TechGF&show_icons=true&theme=synthwave" alt="TechGF :: Profile Stats" /></p>
 </p>
+
+#### Connect With Me: <a href=https://www.linkedin.com/in/gary-feng/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="gary-feng" height="40" width="40" /></a>
 
 ### Thanks for Visiting! :v:
