@@ -9,7 +9,7 @@
 -  **😍Interest :** Web Development | Mobile Development
 -  **:runner:What I Like To Do :** Problem Solving | Learning New Skills
 -  **:fish_cake:Hobbies :** Foodie | Working Out | Binging Shows
--  **🎮Game :** Sims 4 | Pokemon | Minecraft
+-  **🎮Games :** Sims 4 | Pokemon | Minecraft
 -  **:rofl:Fun fact :** I have a birthmark that is shape like a heart :heart:!
 -  **📫How To Reach Me :** [garyfeng961@gmail.com](mailto:garyfeng961?subject=[GitHub]%20Source%20profile)
 -  **:handshake:Connect With Me:** 
