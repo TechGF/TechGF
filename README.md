@@ -10,7 +10,7 @@
 -  **:runner:What I Like To Do :** Problem Solving | Learning New Skills
 -  **:fish_cake:Hobbies :** Foodie | Working Out | Binging Shows
 -  **🎮Games :** Sims 4 | Pokemon | Minecraft
--  **:rofl:Fun fact :** I have a birthmark that is shape like a heart :heart:!
+-  **:rofl:Fun fact :** I have a birthmark on my neck that is shape like a heart :heart:!
 -  **📫How To Reach Me :** [garyfeng961@gmail.com](mailto:garyfeng961?subject=[GitHub]%20Source%20profile)
 -  **:handshake:Connect With Me:** 
 <a href="https://www.linkedin.com/in/gary-feng/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Gary_Feng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gary-feng/"></a>
