@@ -1,5 +1,6 @@
-# Hey there<img src="https://raw.githubusercontent.com/techgf/techgf/master/gifs/Hi.gif" width="30px">! I'm Gary Feng 👨‍💻
-<p><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+
+# Hey there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">! I'm Gary Feng 👨‍💻
 
 ### About Me 🤔
 -  **:books:Currently learning :** JavaScript | Angular | Python
@@ -8,12 +9,12 @@
 -  **😍Interest :** Web Development | Mobile Development
 -  **:runner:What I Like To Do :** Problem Solving | Learning New Skills
 -  **:fish_cake:Hobbies :** Foodie | Working Out | Binging Shows
--  **🎮Game :** Sims 4 | Minecraft
+-  **🎮Game :** Sims 4 | Pokemon | Minecraft
 -  **:rofl:Fun fact :** I have a birthmark that is shape like a heart :heart:!
--  **:blush:Pronouns :** He/Him/His
 -  **📫How To Reach Me :** [garyfeng961@gmail.com](mailto:garyfeng961?subject=[GitHub]%20Source%20profile)
 -  **:handshake:Connect With Me:** 
 <a href="https://www.linkedin.com/in/gary-feng/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Gary_Feng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gary-feng/"></a>
+-  **:blush:Pronouns :** He/Him/His
 
 ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -30,21 +31,15 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-### Github stats :bar_chart:
+### Github Stats :bar_chart:
 
 <h4>Visitor's count :eyes:</h4>
 
 <p><img src="https://profile-counter.glitch.me/{TechGF}/count.svg" alt="TechGF :: Visitor's Count" /></p>
 
-<p>
-<h4>Top Langs 💻:</h4>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechGF&langs_count=10&theme=tokyonight&layout=compact" alt="TechGF :: Top Langs" /></p>
-
-<h4>Profile stats :musical_keyboard:</h4>
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=TechGF&show_icons=true&theme=synthwave" alt="TechGF :: Profile Stats" /></p>
-</p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechGF&langs_count=10&theme=tokyonight&layout=compact" alt="TechGF :: Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=TechGF&show_icons=true&theme=synthwave" alt="TechGF :: Profile Stats" />
+<br>
 
 #### Connect With Me: <a href=https://www.linkedin.com/in/gary-feng/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="gary-feng" height="40" width="40" /></a>
 
