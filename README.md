@@ -3,8 +3,7 @@
 # Hey there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">! I'm Gary Feng 👨‍💻
 
 ### About Me 🤔
--  **:books:Currently learning :** JavaScript | Angular | Python
--  **:tongue:Favorite Language :** Java
+-  **:books:Currently learning :** React | Angular | Python
 -  **:mortar_board:Education :** Currently Computer Science Student at College of Staten Island
 -  **😍Interests :** Web Development | Mobile Development
 -  **:runner:What I Like To Do :** Problem Solving | Learning New Skills
