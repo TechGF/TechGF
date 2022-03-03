@@ -8,7 +8,6 @@
 -  **😍Interests :** Web Development | Mobile Development
 -  **:runner:What I Like To Do :** Problem Solving | Learning New Skills
 -  **:fish_cake:Hobbies :** Foodie | Working Out | Binging Shows
--  **🎮Games :** Sims 4 | Pokemon | Animal Crossing | Minecraft
 -  **:rofl:Fun fact :** I am addicted to drinking bubble tea!
 -  **📫How To Reach Me :** [garyfeng961@gmail.com](mailto:garyfeng961?subject=[GitHub]%20Source%20profile)
 -  **:handshake:Connect With Me:** 
